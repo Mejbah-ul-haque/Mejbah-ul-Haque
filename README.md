@@ -3,9 +3,7 @@
 
 
 - 🔭 I’m currently working on My own project
-- 🌱 I’m currently learning Redux
-- 👯 I’m looking to collaborate on Open source
-- 🤔 I’m looking for help with Docker
+- 👯 I’m looking AWS Solutions Architect Job
 - 💬 Ask me about ...Soft Skells
 - 📫 How to reach me: ... [Linkdin](https://www.linkedin.com/in/md-mejbaul-haque-67b67b71/)
 - 😄 Pronouns: ... He/His
@@ -15,15 +13,20 @@
 
 ### Bio
 
-- I am very passionate about web development. Created several projects using JavaScript, ReactJS, NodeJS, Express.JS, HTML3, CSS3, Tailwind CSS and Bootstrap. With my programming knowledge I can lead your company to greater success -this is my confidence.
+- AWS Cloud Architect
+- Journalist
+- Web Developer
+- Article Writer
 
- - I am very sincere and dedicated about my task. I am very stubborn and do whatever I want and do it anyways. 
+A senior journalist who has worked in mainstream media for 14 years is now working on cloud computing. Along with studying Cloud Engineering, working hard to gift something wonderful to the future 'IT world'. Amazon Web Services (AWS) Solutions Architect.
 
-- For example, after 12 years of journalism, I think the web development field seems to be perfect for me. So let's start learning. Easy to say, but hard to do. I've had a lot of trouble. But I did not give up. In the end I succeeded.
+My story is completely different... I am a professional journalist, with 14 years of experience. I studied Mass Communication and Journalism at university. Journalism was my dream. Therefore, even after passing my Master's in the first class, I had the opportunity to become a university teacher, I took up journalism as a passion without thinking about that attractive job.
 
-- Besides a full time job and maintaining my family I have to spend 7-8 hours every day. This is where you realize how hard I can work! 
+But after the coronavirus attacked the world, my goal changed. My dream changed. Increased inclination towards technology. Firstly, I learned Web Development. One by one I learned HTML, CSS, JavaScript, ReactJS, NodeJS, Bootstrap, Tailwind CCS, Express.JS, MongoDB, and more. I also did many interesting projects.
 
-- The web development field is very challenging. I like to take challenges.
+Then I came to the world of cloud computing. As I wandered through each branch of the cloud, my interest grew. Completed Amazon Web Services (AWS) Solutions Architect Associate Course. Now I read about Amazon's services, and architects all day long.
 
-- Now I am very enjoying web development. I am really excited when I am coding. Sometimes it’s challenging but I enjoy it.
+Many colorful experiences in my life. I am a good communicator and journalist, and I also have experience as an editor. I edited three magazines (The Golf Bangladesh, The Security, and Kahon). I can write good scripts too! Along with cloud computing, I want to use all these qualities to become the best cloud engineer. This is my passion now. This is my dream.
+
+- Now I am very enjoying AWS Cloud Architect. I get very excited when a company migrates to the Amazon Cloud and reduces costs. I feel great joy in making the right solutions.
 
