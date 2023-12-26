@@ -1,8 +1,13 @@
+
+
+## AWS Cloud Architect
+## Journalist
+## Web Developer
+## Article Writer
+
+⚡⚡⚡⚡⚡⚡⚡
+
 ### Hi there 👋
-
-- AWS Cloud Architect - Journalist  - Web Developer  - Article Writer
-
-- - - - - - 
 - 🔭 I’m currently working on My own project
 - 👯 I’m looking AWS Solutions Architect Job
 - 💬 Ask me about ...Soft Skells
@@ -24,5 +29,5 @@ Then I came to the world of cloud computing. As I wandered through each branch o
 
 Many colorful experiences in my life. I am a good communicator and journalist, and I also have experience as an editor. I edited three magazines (The Golf Bangladesh, The Security, and Kahon). I can write good scripts too! Along with cloud computing, I want to use all these qualities to become the best cloud engineer. This is my passion now. This is my dream.
 
-- Now I am very enjoying AWS Cloud Architect. I get very excited when a company migrates to the Amazon Cloud and reduces costs. I feel great joy in making the right solutions.
+Now I am very enjoying AWS Cloud Architect. I get very excited when a company migrates to the Amazon Cloud and reduces costs. I feel great joy in making the right solutions.
 
