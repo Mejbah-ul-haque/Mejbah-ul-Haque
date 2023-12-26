@@ -1,9 +1,10 @@
 
 
-## AWS Cloud Architect
-## Journalist
-## Web Developer
-## Article Writer
+- ## AWS Solutions Architect Associate
+- ## AWS Cloud Engineer
+- ## Journalist
+- ## Web Developer
+- ## Article Writer
 
 ⚡⚡⚡⚡⚡⚡⚡
 
