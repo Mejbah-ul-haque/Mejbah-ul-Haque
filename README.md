@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+- AWS Cloud Architect - Journalist  - Web Developer  - Article Writer
 
-
+- - - - - - 
 - 🔭 I’m currently working on My own project
 - 👯 I’m looking AWS Solutions Architect Job
 - 💬 Ask me about ...Soft Skells
@@ -12,11 +13,6 @@
 
 
 ### Bio
-
-- AWS Cloud Architect
-- Journalist
-- Web Developer
-- Article Writer
 
 A senior journalist who has worked in mainstream media for 14 years is now working on cloud computing. Along with studying Cloud Engineering, working hard to gift something wonderful to the future 'IT world'. Amazon Web Services (AWS) Solutions Architect.
 
