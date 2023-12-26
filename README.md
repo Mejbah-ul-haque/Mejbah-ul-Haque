@@ -32,3 +32,5 @@ Many colorful experiences in my life. I am a good communicator and journalist, a
 
 Now I am very enjoying AWS Cloud Architect. I get very excited when a company migrates to the Amazon Cloud and reduces costs. I feel great joy in making the right solutions.
 
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+
