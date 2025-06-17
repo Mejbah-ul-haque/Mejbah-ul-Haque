@@ -88,11 +88,11 @@ Motivated and detail-oriented entry-level Python developer with a strong foundat
 
 
 ### 🎓 Education
-Master of Social Science (MSS) in Mass Communication and Journalism
+- Master of Social Science (MSS) in Mass Communication and Journalism
 University of Rajshahi, Rajshahi, Bangladesh
 Year of Completion: 2007
 
-Bachelor of Social Science (Honours) in Mass Communication and Journalism
+- Bachelor of Social Science (Honours) in Mass Communication and Journalism
 University of Rajshahi, Rajshahi, Bangladesh
 Year of Completion: 2006
 
