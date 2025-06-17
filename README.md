@@ -56,13 +56,13 @@ Motivated and detail-oriented entry-level Python developer with a strong foundat
 
 - HTML5
 
-- CSS
+- CSS3
 
 - React JS
   
 - Basic JavaScript
 
-- Bootstrap
+- Bootstrap5
 
 - Tailwind CSS
 
