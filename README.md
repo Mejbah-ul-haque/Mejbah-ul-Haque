@@ -81,6 +81,8 @@ Motivated and detail-oriented entry-level Python developer with a strong foundat
 
 - Git & GitHub Crash Course – freeCodeCamp
 
+- CS50x: Introduction to Computer Science – Harvard University (edX)
+
 
 
 
