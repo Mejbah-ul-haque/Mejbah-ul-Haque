@@ -1,8 +1,7 @@
 
 
-- ## Web Developer
-- ## Journalist
-- ## Article Writer
+- ## Python Core Developer
+
 
 ⚡⚡⚡⚡⚡⚡⚡
 
