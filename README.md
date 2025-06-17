@@ -1,6 +1,6 @@
 
 
-- ## Python Core Developer
+ # Python Core Developer
 
 
 ⚡⚡⚡⚡⚡⚡⚡
