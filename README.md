@@ -45,22 +45,20 @@
 
 
 🛠 WEB Skills:
-🔹 HTML5
 
-🔹 CSS
+- HTML5
 
-🔹 Basic JavaScript
+- CSS
+
+- React JS
+  
+- Basic JavaScript
+
+- Bootstrap
+
+- Tailwind CSS
 
 
-⚡⚡⚡⚡⚡⚡⚡
-
-
-🛠 WEB Skills:
-🔹 HTML5
-
-🔹 CSS
-
-🔹 Basic JavaScript
 
 
 ⚡⚡⚡⚡⚡⚡⚡
