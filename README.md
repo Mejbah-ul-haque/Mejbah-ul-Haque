@@ -65,6 +65,13 @@
 
 
 
+### 📌 Looking For:
+- Internship or entry-level roles in Python development
+
+- Opportunities to contribute to open-source Python projects
+
+
+
 ### Bio
 
 A senior journalist who has worked in mainstream media for 14 years is now working on cloud computing. Along with studying Cloud Engineering, working hard to gift something wonderful to the future 'IT world'. Amazon Web Services (AWS) Solutions Architect.
