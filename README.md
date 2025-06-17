@@ -29,7 +29,7 @@
 ⚡⚡⚡⚡⚡⚡⚡
 
 
-🛠 ### Skills:
+### 🛠 Skills:
 🔹 Core Python (3.x)
 
 🔹 OOP, Functional Programming
