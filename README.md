@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on My own project
-- 👯 I’m looking AWS Solutions Architect Job
+- 👯 I’m looking Python Entry Level Job
 - 💬 Ask me about ...Soft Skells
 - 📫 How to reach me: ... [Linkdin](https://www.linkedin.com/in/md-mejbaul-haque-67b67b71/)
 - 😄 Pronouns: ... He/His
@@ -17,13 +17,13 @@
 ⚡⚡⚡⚡⚡⚡⚡
 
 
-🔹 I am an enthusiastic and detail-oriented entry-level Python developer with a solid foundation in core Python programming, object-oriented principles, and problem-solving.
+- I am an enthusiastic and detail-oriented entry-level Python developer with a solid foundation in core Python programming, object-oriented principles, and problem-solving.
 
-🔹 I have hands-on experience building small-scale projects using Python, such as web scraping tools, automation scripts, and simple web applications with Flask.
+- I have hands-on experience building small-scale projects using Python, such as web scraping tools, automation scripts, and simple web applications with Flask.
 
-🔹 Familiar with data structures, algorithms, and testing (unittest, pytest), and currently expanding my knowledge in system-level programming and contributing to open-source Python packages.
+- Familiar with data structures, algorithms, and testing (unittest, pytest), and currently expanding my knowledge in system-level programming and contributing to open-source Python packages.
 
-🔹 Passionate about writing clean, efficient code and eager to learn from experienced developers. I actively follow Python Enhancement Proposals (PEPs) and participate in community discussions on GitHub and Stack Overflow.
+- Passionate about writing clean, efficient code and eager to learn from experienced developers. I actively follow Python Enhancement Proposals (PEPs) and participate in community discussions on GitHub and Stack Overflow.
 
 
 ⚡⚡⚡⚡⚡⚡⚡
