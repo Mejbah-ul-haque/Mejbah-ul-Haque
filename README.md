@@ -26,7 +26,7 @@
 - Passionate about writing clean, efficient code and eager to learn from experienced developers. I actively follow Python Enhancement Proposals (PEPs) and participate in community discussions on GitHub and Stack Overflow.
 
 
-⚡⚡⚡⚡⚡⚡⚡
+⚡⚡⚡⚡⚡⚡⚡ -------------------------------
 
 
 ### 🛠 Skills:
