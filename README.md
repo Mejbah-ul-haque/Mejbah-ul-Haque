@@ -18,7 +18,11 @@
 - ⚡ Fun fact: ... I am very happy!!!
 
 
------------------⚡⚡⚡⚡⚡⚡⚡-----------------
+### 🎯 Objective
+Motivated and detail-oriented entry-level Python developer with a strong foundation in core programming, object-oriented design, and problem-solving. Seeking an internship or junior developer role to apply and expand Python development skills in a professional setting.
+
+
+----------------------------------
 
 
 - I am an enthusiastic and detail-oriented entry-level Python developer with a solid foundation in core Python programming, object-oriented principles, and problem-solving.
@@ -30,7 +34,7 @@
 - Passionate about writing clean, efficient code and eager to learn from experienced developers. I actively follow Python Enhancement Proposals (PEPs) and participate in community discussions on GitHub and Stack Overflow.
 
 
-----------------------⚡⚡⚡⚡⚡⚡⚡ ------------------------
+----------------------------------------------
 
 
 ### 🛠 Skills:
@@ -45,7 +49,7 @@
 🔹 Command-line
 
 
------------------⚡⚡⚡⚡⚡⚡⚡-----------------------------
+----------------------------------------------
 
 
 ### 🛠 WEB Skills:
@@ -65,7 +69,7 @@
 
 
 
-----------------------⚡⚡⚡⚡⚡⚡⚡--------------------------
+------------------------------------------------
 
 
 ### 🌐 Certifications 
@@ -80,7 +84,17 @@
 
 
 
+--------------------------------------------------
 
+
+### 🎓 Education
+Master of Social Science (MSS) in Mass Communication and Journalism
+University of Rajshahi, Rajshahi, Bangladesh
+Year of Completion: 2007
+
+Bachelor of Social Science (Honours) in Mass Communication and Journalism
+University of Rajshahi, Rajshahi, Bangladesh
+Year of Completion: 2006
 
 
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
