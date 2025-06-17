@@ -3,7 +3,7 @@
  # Python Core Developer
 
 
-⚡⚡⚡⚡⚡⚡⚡
+
 
 ### Hi there 👋
 - 🔭 I’m currently working on My own project
@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ... I am very happy!!!
 
 
-⚡⚡⚡⚡⚡⚡⚡
+-----------------⚡⚡⚡⚡⚡⚡⚡-----------------
 
 
 - I am an enthusiastic and detail-oriented entry-level Python developer with a solid foundation in core Python programming, object-oriented principles, and problem-solving.
@@ -26,7 +26,7 @@
 - Passionate about writing clean, efficient code and eager to learn from experienced developers. I actively follow Python Enhancement Proposals (PEPs) and participate in community discussions on GitHub and Stack Overflow.
 
 
-⚡⚡⚡⚡⚡⚡⚡ -------------------------------
+----------------------⚡⚡⚡⚡⚡⚡⚡ ------------------------
 
 
 ### 🛠 Skills:
@@ -41,7 +41,7 @@
 🔹 Command-line
 
 
-⚡⚡⚡⚡⚡⚡⚡
+-----------------⚡⚡⚡⚡⚡⚡⚡-----------------------------
 
 
 🛠 WEB Skills:
@@ -61,7 +61,7 @@
 
 
 
-⚡⚡⚡⚡⚡⚡⚡
+----------------------⚡⚡⚡⚡⚡⚡⚡--------------------------
 
 
 
