@@ -23,6 +23,35 @@
 🔹 Passionate about writing clean, efficient code and eager to learn from experienced developers. I actively follow Python Enhancement Proposals (PEPs) and participate in community discussions on GitHub and Stack Overflow.
 
 
+🛠 Skills:
+🔹 Core Python (3.x)
+
+🔹 OOP, Functional Programming
+
+🔹 Git/GitHub
+
+🔹 Basic SQL
+
+🔹 Command-line
+
+
+🛠 WEB Skills:
+🔹 HTML5
+
+🔹 CSS
+
+🔹 Basic JavaScript
+
+🛠 WEB Skills:
+🔹 HTML5
+
+🔹 CSS
+
+🔹 Basic JavaScript
+
+
+
+
 ### Bio
 
 A senior journalist who has worked in mainstream media for 14 years is now working on cloud computing. Along with studying Cloud Engineering, working hard to gift something wonderful to the future 'IT world'. Amazon Web Services (AWS) Solutions Architect.
