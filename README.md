@@ -38,15 +38,7 @@ Motivated and detail-oriented entry-level Python developer with a strong foundat
 
 
 ### 🛠 Skills:
-🔹 Core Python (3.x)
-
-🔹 OOP, Functional Programming
-
-🔹 Git/GitHub
-
-🔹 Basic SQL
-
-🔹 Command-line
+🔹 Core Python (3.x) 🔹 OOP, Functional Programming  🔹 Git/GitHub  🔹 Basic SQL  🔹 Command-line
 
 
 ----------------------------------------------
