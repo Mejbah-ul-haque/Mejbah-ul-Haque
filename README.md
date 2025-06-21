@@ -46,17 +46,7 @@ Motivated and detail-oriented entry-level Python developer with a strong foundat
 
 ### 🛠 WEB Skills:
 
-- HTML5
-
-- CSS3
-
-- React JS
-  
-- Basic JavaScript
-
-- Bootstrap5
-
-- Tailwind CSS
+- HTML5  - CSS3  - React JS  - Basic JavaScript  - Bootstrap5  - Tailwind CSS
 
 
 
