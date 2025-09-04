@@ -2,7 +2,7 @@
 
  # Python Core Developer
 
-- I am a Junior Python Developer with expertise in Python, pandas, NumPy, Matplotlib, and Tkinter, along with solid skills in HTML5, CSS3, Tailwind CSS, and Bootstrap5.
+I am a Junior Python Developer with expertise in Python, pandas, NumPy, Matplotlib, and Tkinter, along with solid skills in HTML5, CSS3, Tailwind CSS, and Bootstrap5.
 I am also comfortable with JavaScript, Node.js, Express.js, React.js, and have basic knowledge of AWS, supported by hands-on use of tools like PyCharm, Git/GitHub, VS Code, Netlify, Figma, and Canva.
 With 16 years of professional journalism experience, I bring strong communication, research, and problem-solving skills, and I am passionate about growing my career toward becoming an AI Engineer.
  
