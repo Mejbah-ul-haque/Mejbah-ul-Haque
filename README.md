@@ -1,10 +1,8 @@
 
 
- # Python Core Developer
+ # AI Engineer
 
-I am a Junior Python Developer with expertise in Python, pandas, NumPy, Matplotlib, and Tkinter, along with solid skills in HTML5, CSS3, Tailwind CSS, and Bootstrap5.
-I am also comfortable with JavaScript, Node.js, Express.js, React.js, and have basic knowledge of AWS, supported by hands-on use of tools like PyCharm, Git/GitHub, VS Code, Netlify, Figma, and Canva.
-With 16 years of professional journalism experience, I bring strong communication, research, and problem-solving skills, and I am passionate about growing my career toward becoming an AI Engineer.
+Aspiring AI Engineer with a solid foundation in Python, data science, and cloud tools, and 16 years of professional journalism experience. Combines technical skills with strong analytical and communication abilities to contribute to impactful AI projects.
  
 
 ### Hi 👋
@@ -16,11 +14,9 @@ With 16 years of professional journalism experience, I bring strong communicatio
 - ⚡ Fun fact: ... I am very happy!!!
 
 
-### 🎯 Objective
-Motivated and detail-oriented entry-level Python developer with a strong foundation in core programming, object-oriented design, and problem-solving. Seeking an internship or junior developer role to apply and expand Python development skills in a professional setting.
+### 🎯 Career Objective
 
-
-----------------------------------
+Entry-level AI Engineer with a strong foundation in Python, Data Analysis, and Front-end Development, seeking opportunities to contribute to AI and ML-driven projects. Backed by 16 years of professional journalism experience, offering strong analytical, problem-solving, and communication skills. Passionate about advancing into a skilled AI Engineer role by applying technical expertise in machine learning, cloud solutions, and software development.
 
 
 - I am an enthusiastic and detail-oriented entry-level Python developer with a solid foundation in core Python programming, object-oriented principles, and problem-solving.
@@ -35,17 +31,41 @@ Motivated and detail-oriented entry-level Python developer with a strong foundat
 ----------------------------------------------
 
 
-### 🛠 Skills:
-🔹 Core Python (3.x) 🔹 OOP, Functional Programming  🔹 Git/GitHub  🔹 Basic SQL  🔹 Command-line
+### 🛠️ Technical Skills
 
+🔹 Programming & Data Analysis:
+
+Python (pandas, NumPy, Matplotlib, Tkinter)
+
+🔹 Front-End Development:
+
+HTML5, CSS3, Tailwind CSS, Bootstrap5
+
+Intermediate: React.js, JavaScript
+
+🔹 Back-End Development & Databases:
+
+Node.js (Basic), Express.js (Basic), Firebase (Basic), MongoDB
+
+🔹 Cloud & DevOps:
+
+Intermediate: AWS Solution Architect Associate
+
+Tools & Platforms:
+
+PyCharm, VS Code, Git/GitHub, Netlify, Figma, Canva
 
 ----------------------------------------------
 
+### 💼 Professional Experience
 
-### 🛠 WEB Skills:
+Journalist / Senior Editor – [Organization Name] (16 years)
 
-- HTML5  - CSS3  - React JS  - Basic JavaScript  - Bootstrap5  - Tailwind CSS
+Conducted data-driven reporting and analysis.
 
+Built strong communication, problem-solving, and project management skills.
+
+Managed editorial teams in fast-paced environments with tight deadlines.
 
 
 
@@ -63,8 +83,7 @@ Motivated and detail-oriented entry-level Python developer with a strong foundat
 
 - CS50x: Introduction to Computer Science – Harvard University (edX)
 
-
-
+- CS50's Introduction to Artificial Intelligence with Python
 
 --------------------------------------------------
 
@@ -77,6 +96,15 @@ Year of Completion: 2007
 - Bachelor of Social Science (Honours) in Mass Communication and Journalism, 
 University of Rajshahi, Bangladesh
 Year of Completion: 2006
+
+
+--------------------------------------------------
+
+📌 Extra-Curricular Activities
+
+Article Writing and Content Creation
+
+Exploring AI research papers and open-source contributions
 
 
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
