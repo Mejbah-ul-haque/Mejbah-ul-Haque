@@ -2,12 +2,14 @@
 
  # AI Engineer
 
+Looking for an AI Engineering Entry Level Job!
+
 Aspiring AI Engineer with a solid foundation in Python, data science, and cloud tools, and 16 years of professional journalism experience. Combines technical skills with strong analytical and communication abilities to contribute to impactful AI projects.
  
 
 ### Hi 👋
 - 🔭 I’m currently working on My own project
-- 👯 I’m looking Python Entry Level Job
+- 👯 I’m looking AI Engineer Entry Level Job
 - 💬 Ask me about ...Soft Skells
 - 📫 How to reach me: ... [Linkdin](https://www.linkedin.com/in/md-mejbaul-haque-67b67b71/)
 - 😄 Pronouns: ... He/His
@@ -55,7 +57,9 @@ Tools & Platforms:
 
 PyCharm, VS Code, Git/GitHub, Netlify, Figma, Canva
 
+
 ----------------------------------------------
+
 
 ### 💼 Professional Experience
 
@@ -84,6 +88,7 @@ Managed editorial teams in fast-paced environments with tight deadlines.
 - CS50x: Introduction to Computer Science – Harvard University (edX)
 
 - CS50's Introduction to Artificial Intelligence with Python
+- 
 
 --------------------------------------------------
 
@@ -99,6 +104,7 @@ Year of Completion: 2006
 
 
 --------------------------------------------------
+
 
 📌 Extra-Curricular Activities
 
